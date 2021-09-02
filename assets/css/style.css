@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #1acc8d;
+  background:rgba(44, 48, 78, 0.9);
   width: 40px;
   height: 40px;
   border-radius: 50px;
