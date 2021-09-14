@@ -221,7 +221,7 @@
       hour = minute * 60,
       day = hour * 24;
 
-    let targetDate = "Sep 30, 2021 00:00:00",
+    let targetDate = "Sep 28, 2021 23:59:59",
       countDown = new Date(targetDate).getTime(),
       x = setInterval(function () {
         let now = new Date().getTime(),
